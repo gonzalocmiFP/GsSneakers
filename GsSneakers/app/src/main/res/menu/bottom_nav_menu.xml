@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Menú"
+        android:id="@+id/nav_menu"
+        android:icon="@drawable/menu"/>
+
+    <item android:title="Favoritos"
+        android:id="@+id/nav_favourite"
+        android:icon="@drawable/favorite"/>
+
+    <item android:title="Notificaciones"
+        android:id="@+id/nav_notification"
+        android:icon="@drawable/notification"/>
+
+    <item android:title="Perfil"
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/profile"/>
+
+</menu>

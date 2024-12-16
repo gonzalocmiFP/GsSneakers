@@ -3,4 +3,8 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="yellow">#ffde59</color>
+    <color name="red">#B10808</color>
+    <color name="transparent">#00000000</color>
+    <color name="semiBlack">#83000000</color>
+
 </resources>

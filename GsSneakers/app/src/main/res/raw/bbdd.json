@@ -1,0 +1,1133 @@
+[
+  {
+    "id": 1,
+    "nombre": "Air Jordan 4 Retro White Thunder",
+    "marca": "Air Jordan",
+    "modelo": "4 Retro",
+    "precio": 230.00,
+    "imagen": "https://images.stockx.com/images/Air-Jordan-4-Retro-White-Thunder-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1722353047",
+    "color": "Negro/Blanco",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Nike Dunk Low Retro White Black Panda",
+    "marca": "Nike",
+    "modelo": "Dunk",
+    "precio": 110.00,
+    "imagen": "https://images.stockx.com/images/Nike-Dunk-Low-Retro-White-Black-2021-Product.jpg?fit=fill&bg=FFFFFF&w=1200&h=857&q=60&dpr=1&trim=color&updated_at=1633027409",
+    "color": "Negro/Blanco",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Yeezy Foam Runner Onyx",
+    "marca": "Adidas",
+    "modelo": "Yeezy Foam",
+    "precio": 80.00,
+    "imagen": "https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-Onyx-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1654264132",
+    "color": "Negro",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Adidas x Bad Bunny Gazelle Indoor White",
+    "marca": "Adidas",
+    "modelo": "Bad Bunny",
+    "precio": 180.00,
+    "imagen": "https://images.stockx.com/images/adidas-Gazelle-Indoor-Bad-Bunny-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1715176667",
+    "color": "Blanco",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Air Jordan x Travis Scott Jumpman Jack TR Sail",
+    "marca": "Air Jordan",
+    "modelo": "Air Jordan",
+    "precio": 880.00,
+    "imagen": "https://images.stockx.com/images/Air-Jordan-Cut-The-Check-TR-Travis-Scott-Sail-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1707760227",
+    "color": "Blanco/Marrón",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "Air Jordan 1 High OG Lost and Found",
+    "marca": "Air Jordan",
+    "modelo": "1 Retro",
+    "precio": 310.00,
+    "imagen": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-OG-Chicago-Reimagined-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1665691099",
+    "color": "Rojo/Blanco/Negro",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 7,
+    "nombre": "Yeezy Boost 350 V2 Carbon Beluga",
+    "marca": "Adidas",
+    "modelo": "Yeezy 350 V2",
+    "precio": 180.00,
+    "imagen": "https://images.stockx.com/images/adidas-Yeezy-350-V2-Carbon-Beluga-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1686036389",
+    "color": "Marrón/Naranja",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "New Balance x Salehe Bemburry 530 Prosperity Be The Prize ",
+    "marca": "New Balance",
+    "modelo": "530",
+    "precio": 225.00,
+    "imagen": "https://images.stockx.com/images/New-Balance-530-Salehe-Bembury-Prosperity-Be-The-Prize-Product.jpg?fit=fill&bg=FFFFFF&w=1200&h=857&q=60&dpr=1&trim=color&updated_at=1729865217",
+    "color": "Verde/Amarillo",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 9,
+    "nombre": "Nike x Nigo Air Force 3 Low White Multicolor",
+    "marca": "Nike",
+    "modelo": "Air Force 3",
+    "precio": 237.00,
+    "imagen": "https://images.stockx.com/images/Nike-Air-Force-3-Low-Nigo-White-Multi-Color-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1728478831",
+    "color": "Blanco",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 10,
+    "nombre": "Nike Dunk Low Grey Fog",
+    "marca": "Nike",
+    "modelo": "Dunk",
+    "precio": 90.00,
+    "imagen": "https://images.stockx.com/images/Nike-Dunk-Low-Grey-Fog-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1688711455",
+    "color": "Blanco/Gris",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 11,
+    "nombre": "Nike Air Force 1 Low White 07",
+    "marca": "Nike",
+    "modelo": "Air Force 1",
+    "precio": 110.00,
+    "imagen": "https://images.stockx.com/images/Nike-Air-Force-1-Low-White-07_V2-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1631122839",
+    "color": "Blanco",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 12,
+    "nombre": "Air Jordan 1 Retro High OG Bred Patent",
+    "marca": "Air Jordan",
+    "modelo": "1 Retro",
+    "precio": 220.00,
+    "imagen": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-OG-Bred-Patent-Product.jpg?fit=fill&bg=FFFFFF&w=1200&h=857&q=60&dpr=1&trim=color&updated_at=1633542046",
+    "color": "Negro/Rojo",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 13,
+    "nombre": "Air Jordan x Nike SB 4 Pine Green",
+    "marca": "Nike/Air Jordan",
+    "modelo": "SB 4",
+    "precio": 400.00,
+    "imagen": "https://images.stockx.com/images/Air-Jordan-4-Retro-SB-Pine-Green-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1678346835",
+    "color": "Blanco/Verde",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 14,
+    "nombre": "New Balance 550 White Blue",
+    "marca": "New Balance",
+    "modelo": "550",
+    "precio": 195.00,
+    "imagen": "https://images.stockx.com/images/New-Balance-550-White-Blue-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1613669984",
+    "color": "Blanco/Azul",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 16,
+    "nombre": "Nike SB x Supreme Dunk Low Rammellzee",
+    "marca": "Nike/Supreme",
+    "modelo": "SB Dunk",
+    "precio": 490.00,
+    "imagen": "https://images.stockx.com/images/Nike-SB-Dunk-Low-Supreme-Rammellzee-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1690180104",
+    "color": "Blanco/Negro",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 15,
+    "nombre": "Supreme x Nike Air Force 1 Low Flax",
+    "marca": "Nike/Supreme",
+    "modelo": "Air Force 1",
+    "precio": 260.00,
+    "imagen": "https://images.stockx.com/images/Nike-Air-Force-1-Low-Supreme-Flax-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1637088094",
+    "color": "Marrón",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 17,
+    "nombre": "Yeezy 700 V3 Azael",
+    "marca": "Adidas",
+    "modelo": "Yeezy 700 V3",
+    "precio": 310.00,
+    "imagen": "https://images.stockx.com/images/adidas-Yeezy-700-V3-Azael-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1606319725",
+    "color": "Blanco",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 18,
+    "nombre": "Yeezy Boost 700 Wave Runner",
+    "marca": "Adidas",
+    "modelo": "Yeezy Bost 700",
+    "precio": 510.00,
+    "imagen": "https://images.stockx.com/images/adidas-Yeezy-Wave-Runner-700-Solid-Grey-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1628533740",
+    "color": "Gris",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 19,
+    "nombre": "Louis Vuitton x Timberland 6 Ankle Boot Beige Monogram",
+    "marca": "Timberland/Louis Vuitton",
+    "modelo": "Timberland 6",
+    "precio": 2500.00,
+    "imagen": "https://images.stockx.com/images/Louis-Vuitton-Ankle-Boot-Timberland-Wheat-6-Product.jpg?fit=fill&bg=FFFFFF&w=1200&h=857&q=60&dpr=1&trim=color&updated_at=1724418483",
+    "color": "Marrón",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 20,
+    "nombre": "Adidas Campus 00s Black",
+    "marca": "Adidas",
+    "modelo": "Campus",
+    "precio": 175.00,
+    "imagen": "https://images.stockx.com/images/adidas-Campus-00s-Core-Black-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1681283876",
+    "color": "Negro",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 21,
+    "nombre": "Asics Gel-Kayano 14 Cream Black Metallic Plum",
+    "marca": "Asics",
+    "modelo": "Gel-Kayano 14",
+    "precio": 200.00,
+    "imagen": "https://images.stockx.com/images/ASICS-Gel-Kayano-14-Cream-Black-Metallic-Plum-Product.jpg?fit=fill&bg=FFFFFF&w=1200&h=857&q=60&dpr=1&trim=color&updated_at=1686309767",
+    "color": "Gris/Negro",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 22,
+    "nombre": "Asics Gel-1130 Pale Oak Grand Shark",
+    "marca": "Asics",
+    "modelo": "Gel-1130",
+    "precio": 390.00,
+    "imagen": "https://images.stockx.com/images/ASICS-Gel-1130-Pale-Oak-Grand-Shark-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1731016069",
+    "color": "Blanco/Azul",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 23,
+    "nombre": "Yeezy Slide Bone",
+    "marca": "Adidas",
+    "modelo": "Yeezy Slide",
+    "precio": 120.00,
+    "imagen": "https://images.stockx.com/images/Yeezy-Slide-Bone-Product.jpg?fit=fill&bg=FFFFFF&w=1200&h=857&q=60&dpr=1&trim=color&updated_at=1608522495",
+    "color": "Crema",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 25,
+    "nombre": "Yeezy Slide Onyx",
+    "marca": "Adidas",
+    "modelo": "Yeezy Slide",
+    "precio": 120.00,
+    "imagen": "https://images.stockx.com/images/adidas-Yeezy-Slide-Black-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1646687426",
+    "color": "Negro",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 26,
+    "nombre": "Air Jordan x Travis Scott 1 Low OG SP Medium Olive",
+    "marca": "Air Jordan 1",
+    "modelo": "Air Jordan 1",
+    "precio": 650.00,
+    "imagen": "https://images.stockx.com/images/Air-Jordan-1-Retro-Low-OG-SP-Medium-Olive-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1725369968",
+    "color": "Blanco/Verde",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 27,
+    "nombre": "Air Jordan x J Balvin 3 Rio",
+    "marca": "Air Jordan",
+    "modelo": "3 Retro",
+    "precio": 340.00,
+    "imagen": "https://images.stockx.com/images/Air-Jordan-3-Retro-J-Balvin-Rio-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1731445714",
+    "color": "Negro",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 28,
+    "nombre": "Air Jordan 11 Retro Cool Grey",
+    "marca": "Air Jordan",
+    "modelo": "3 Retro",
+    "precio": 320.00,
+    "imagen": "https://images.stockx.com/images/Air-Jordan-11-Retro-Cool-Grey-2021-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1631898423",
+    "color": "Blanco",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 29,
+    "nombre": "Air Jordan x Travis Scott Retro 6 British Khaki",
+    "marca": "Air Jordan",
+    "modelo": "6 Retro",
+    "precio": 610.00,
+    "imagen": "https://images.stockx.com/images/Air-Jordan-6-Retro-Travis-Scott-British-Khaki-Product.jpg?fit=fill&bg=FFFFFF&w=1200&h=857&q=60&dpr=1&trim=color&updated_at=1620406101",
+    "color": "Marrón",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 30,
+    "nombre": "Air Jordan 1 Retro High Dior",
+    "marca": "Air Jordan/Dior",
+    "modelo": "1 Retro",
+    "precio": 8500.00,
+    "imagen": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Dior-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1607043976",
+    "color": "Blanco/Gris",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 31,
+    "nombre": "Adidas Handball Spezial Night Indigo",
+    "marca": "Adidas",
+    "modelo": "Spezial",
+    "precio": 160.00,
+    "imagen": "https://images.stockx.com/images/adidas-Handball-Spezial-Night-Indigo-Product.jpg?fit=fill&bg=FFFFFF&w=1200&h=857&q=60&dpr=1&trim=color&updated_at=1716989546",
+    "color": "Azul",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 32,
+    "nombre": "Adidas x Bad Bunny Forum Buckle Low White",
+    "marca": "Adidas",
+    "modelo": "Bad Bunny",
+    "precio": 270.00,
+    "imagen": "https://images.stockx.com/images/adidas-Forum-Buckle-Low-White-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1670919042",
+    "color": "Blanco",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 33,
+    "nombre": "Adidas x The Simpsons Stan Smith Homer Simpson",
+    "marca": "Adidas",
+    "modelo": "Stan Smith",
+    "precio": 180.00,
+    "imagen": "https://images.stockx.com/images/adidas-Stan-Smith-The-Simpsons-Homer-Simpson-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1692306511",
+    "color": "Blanco/Verde",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 34,
+    "nombre": "Nike Air MAG Back To The Future",
+    "marca": "Nike",
+    "modelo": "Air MAG",
+    "precio": 10000.00,
+    "imagen": "https://images.stockx.com/images/Nike-Air-Mag-Back-To-The-Future-BTTF-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1648065975",
+    "color": "Gris",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 35,
+    "nombre": "Air Jordan 3 OG Black Cement",
+    "marca": "Air Jordan",
+    "modelo": "3 Retro",
+    "precio": 270.00,
+    "imagen": "https://images.stockx.com/images/Air-Jordan-3-Retro-Black-Cement-2018-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1609356781",
+    "color": "Negro",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 36,
+    "nombre": "Nike SB x VERDY Dunk Low Visty",
+    "marca": "Nike",
+    "modelo": "SB Dunk",
+    "precio": 370.00,
+    "imagen": "https://images.stockx.com/images/Nike-SB-Dunk-Low-Verdy-Visty-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1725369765",
+    "color": "Azul",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 37,
+    "nombre": "Air Jordan x Travis Scott 1 Low OG Black Phantom",
+    "marca": "Air Jordan",
+    "modelo": "Air Jordan 1",
+    "precio": 990.00,
+    "imagen": "https://images.stockx.com/images/Air-Jordan-1-Retro-Low-OG-SP-Travis-Scott-Black-Phantom-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1671732011",
+    "color": "Negro",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 38,
+    "nombre": "New Balance x Stone Island 574 Legacy Dark Green",
+    "marca": "New Balance/Stone Island",
+    "modelo": "574",
+    "precio": 340.00,
+    "imagen": "https://images.stockx.com/images/New-Balance-574-Legacy-Stone-Island-Dark-Green-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1718631874",
+    "color": "Verde",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 39,
+    "nombre": "Air Jordan 11 Retro Legend Blue",
+    "marca": "New Balance",
+    "modelo": "11 Retro",
+    "precio": 260.00,
+    "imagen": "https://images.stockx.com/images/Air-Jordan-11-Retro-Legend-Blue-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1652895383",
+    "color": "Blanco",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  },
+  {
+    "id": 40,
+    "nombre": "Nike SB x Nicole Hause Dunk Low",
+    "marca": "Nike",
+    "modelo": "SB Dunk",
+    "precio": 260.00,
+    "imagen": "https://images.stockx.com/images/nike-sb-dunk-low-pro-nicole-hause.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1734013239",
+    "color": "Blanco",
+    "stock": {
+      "35": 10,
+      "36": 15,
+      "37": 20,
+      "38": 25,
+      "39": 30,
+      "40": 5,
+      "41": 15,
+      "42": 10
+    },
+    "tallas": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ]
+  }
+]

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/yellow"
+    tools:context=".ProfileFragment">
+
+    <TextView
+        android:id="@+id/textViewBuy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="SELECCIONE EL MÉTODO DE PAGO"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <RadioGroup
+        android:id="@+id/options"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/textViewBuy"
+        app:layout_constraintTop_toBottomOf="@+id/textViewBuy">
+
+        <com.google.android.material.radiobutton.MaterialRadioButton
+            android:id="@+id/paypalOption"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="20dp"
+            android:background="@color/black"
+            android:enabled="true"
+            android:paddingStart="12dp"
+            app:buttonTint="@color/white"
+            android:textSize="18sp"
+            android:text="PAY PAL"
+            android:textColor="@color/white" />
+
+        <com.google.android.material.radiobutton.MaterialRadioButton
+            android:id="@+id/cardOption"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/black"
+            android:checked="false"
+            android:enabled="true"
+            app:buttonTint="@color/white"
+            android:paddingStart="12dp"
+            android:textSize="18sp"
+            android:text="VISA / MASTERCARD"
+            android:textColor="@color/white" />
+    </RadioGroup>
+
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+
+        app:layout_constraintTop_toBottomOf="@+id/options">
+
+        <Button
+            android:id="@+id/botonCancelarCompra"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/black"
+            android:paddingHorizontal="30dp"
+            android:paddingVertical="15dp"
+            android:text="CANCELAR"
+            android:layout_marginEnd="50dp"/>
+
+        <Button
+            android:id="@+id/botonAceptarCompra"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/black"
+            android:paddingHorizontal="30dp"
+            android:paddingVertical="15dp"
+            android:text="ACEPTAR" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

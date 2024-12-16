@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660758741929",
+    "project_id": "damtfg-70246",
+    "storage_bucket": "damtfg-70246.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660758741929:android:18c7ede08ac72cb357bab8",
+        "android_client_info": {
+          "package_name": "com.example.gssneakers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVZkuavpxzl4ge_kk_ejgtT9LlnmF3BEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
